@@ -1,0 +1,340 @@
+@font-face {
+    font-family: "Century Gothic";
+    src: url(../font/Century\ Gothic.ttf);
+  }
+  @font-face {
+    font-family: "Gothic Bold";
+    src: url(../font/GOTHICB0.TTF);
+  }  
+  
+  
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Century Gothic";
+    line-height: 40px;
+  }
+/* heading css start */
+  h4{
+    font-size: 46px;
+    color: #36557A;
+    line-height: 50px;
+    font-weight: bold;
+    font-family: "Gothic Bold";
+  }
+
+  h6{
+    font-size: 26px;
+    color: #36557A;
+    font-weight: bold;
+    font-family: "Gothic Bold";
+  }
+
+  .row-center{
+    display: flex;
+    align-items: center;
+   }  
+
+
+  /* ticker css start */
+
+  .ticker{
+    padding: 8rem 0;
+  }
+  .ticker img{
+    width: 100%;
+    height: auto;
+  }
+.ticker-text{
+    padding-left: 1.5rem;
+}
+/* .ticker-text p{
+    width: 85%;
+} */
+.ticker ul{
+    padding-left: 1rem;
+}
+
+/*ticker end */
+
+/* pivotal css start  */
+.pivotal{
+    background: url(../Images/ticker-back.png);
+    background-size: 100vw 100%;
+    background-repeat: no-repeat;
+    padding: 4rem 0;
+    background-color: #F2F7EC;
+}
+
+.pivotal h4{
+    padding-bottom: 1.8rem;
+}
+
+.pivotal h6{
+    padding-top: 1rem;
+}
+
+.pivotal ul{
+    margin-bottom: 0;
+    padding-left: 2rem;
+}
+
+/* pivotal ends  */
+
+/* created_by_sangamX starts */
+
+.created_by_sangamX h4{
+    width: 80%;
+}
+.created_by_sangamX ul{
+    padding-left: 0;
+}
+.created_by_sangamX img{
+    width: 100%;
+    height: auto;
+}
+.created_by_sangamX{
+    padding: 8rem 0;
+}
+.created_by_sangamX-text ul{
+    list-style: none;
+    padding-top: 2rem;
+}
+.created_by_sangamX ul span{
+    color: #36557A;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.created_by_sangamX-text p span{
+    color: #36557A;
+    font-weight: bold;
+}
+/* created_by_sangamX ends  */
+
+/* operating model starts */
+.operating-model{
+    background-color: #F2F7EC;
+    padding: 5rem 0;
+}
+.operating-model h4{
+    padding-bottom: 2rem;
+}
+.operating-model img{
+width: 100%;
+height: auto;
+}
+
+/* operating models ends  */
+
+/* join us start  */
+
+.join-us{
+    padding: 8rem 0;
+}
+.box{
+background: #FFFFFF;
+border: 1px solid rgba(54, 85, 122, 0.5);
+border-radius: 12px;
+width: 100%;
+min-height: 360px;
+padding: 2rem 1rem;
+margin-bottom: 2rem;
+}
+
+.join-us img{
+    padding: 10px;
+    width: 80px;
+}
+.join-us p{
+    color: #545454;
+}
+.join-us h4{
+    font-family: "Gothic Bold";
+}
+.join-us h6{
+    font-family: "Gothic Bold";
+}
+.row-2{
+    padding-top: 20px;
+}
+/* join us ends  */
+
+/* pioneers starts  */
+
+.pioneers{
+    background: url(../Images/pioneer-back.png);
+    background-size: 100vw 100%;
+    background-repeat: no-repeat;
+    background-color: #F2F7EC;
+    padding: 8rem 0;
+}
+.pioneers img{
+    width: 100%;
+    height: auto;
+}
+.pioneers ul{
+    padding-left: 1rem;
+}
+
+/* pioneers ends  */
+
+/* smn offer starts */
+.smn-offer{
+    padding: 8rem 0;
+}
+.box-smn{
+    background: #FFFFFF;
+border: 1px solid rgba(54, 85, 122, 0.5);
+border-radius: 12px;
+min-width: 400px;
+min-height: 405px;
+padding: 1rem 1rem;
+}
+.box-smn img{
+    padding: 10px;
+    width: 80px;
+
+}
+
+.smn-row{
+    padding: 1rem 0;
+}
+/* smn offer ends */
+/* impact investor starts  */
+.impact-investor{
+    background: url(../Images/impact-back.png);
+    background-size: 100vw 100%;
+    background-repeat: no-repeat;
+    padding: 8rem 0;
+    background-color: #F2F7EC;
+}
+.impact-investor img{
+    width: 100%;
+    height: auto;
+
+}
+/* impact investor ends  */
+/* contact us start  */
+.contact-us{
+    background: url(../Images/Contact-us.png);
+    background-size: 100vw 100%;
+    background-repeat: no-repeat;
+    background-color: #F2F7EC;
+    padding: 6rem 0;
+}
+
+.contact-us img{
+    width: 100%;
+    height: auto;
+    
+}
+
+.contact-us label{
+    font-weight: bold;
+    font-family: "Gothic Bold";
+}
+
+.contact-us button{
+    background-color: #7CAD3E;
+    margin: 30px 10px 10px 0;
+    width: 120px;
+    height: 45px;
+}
+.form-control{
+    background-color: #F2F7EC;
+    border: 1px solid #7CAD3E;
+
+}
+/* contact us ends  */
+/* meida screens  */
+
+@media screen and (max-width:1200px){
+    .ticker img{
+        width: auto;
+    }
+    .created_by_sangamX img{
+        width: auto;
+    }
+    .impact-investor img{
+        width: auto;
+    }
+    .box{
+        min-height: 400px;
+    }
+    .box-smn{
+        min-height: 440px;
+      }
+}
+
+@media screen and (max-width:992px){
+    .box-smn{
+        min-width: unset;
+        margin-bottom: 20px;
+    }
+    .ticker img{
+        width: 100%;
+        padding: 2rem 0;
+    }
+    .created_by_sangamX{
+        padding: 2rem 0;
+    }
+    .created_by_sangamX h4{
+        width: 100%;
+    }
+    .created_by_sangamX img{
+        width: 100%;
+    }
+    .join-us{
+        padding: 2rem 0;
+    }
+    .pioneers{
+        padding: 2rem 0;
+    }
+    .smn-offer{
+        padding: 2rem 0;
+    }
+    .impact-investor{
+        padding: 2rem 0;
+    }
+    .impact-investor img{
+        width: 100%;
+    }
+    .contact-us{
+        padding: 2rem 0;
+    }
+    .ticker{
+        padding: 2rem 0;
+    }
+    
+    h4{
+        font-size: 38px;
+      }
+      .box{
+        min-height: auto;
+      }
+      .box-smn{
+        min-height: auto;
+      }
+      
+}
+
+@media screen and (min-width:1600px){
+    .pivotal{
+    background-size:contain;
+    background-position: center;
+    }
+    .pioneers{
+        background-size:contain;
+        background-position: center;
+    }
+    .impact-investor{
+        background-size:contain;
+        background-position: center;
+    }
+    .contact-us{
+        background-size:contain;
+        background-position: center;
+    }
+}

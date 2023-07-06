@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-century-gothic: "Century Gothic";
+    --font-montserrat: Montserrat;
+  
+    /* font sizes */
+    --font-size-sm: 14px;
+    --font-size-base: 16px;
+    --font-size-6xl: 25px;
+    --font-size-13xl: 32px;
+    --font-size-5xl: 24px;
+    --font-size-7xl: 26px;
+    --font-size-27xl: 46px;
+    --font-size-lg: 18px;
+    --font-size-11xl: 30px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-gray: #1f1f1f;
+    --color-steelblue-100: #1895c6;
+    --color-steelblue-200: #2f76a8;
+    --color-steelblue-300: #36557a;
+    --color-steelblue-400: rgba(54, 85, 122, 0.5);
+    --green: #7cad3e;
+    --color-dimgray: #545454;
+    --color-floralwhite: #f2f7ec;
+  
+    /* border radiuses */
+    --br-xs: 12px;
+    --br-base: 16px;
+  }
+  

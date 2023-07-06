@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Century Gothic";
+  src: url(../font/Century\ Gothic.ttf);
+}
+@font-face {
+  font-family: "Gothic Bold";
+  src: url(../font/GOTHICB0.TTF);
+}  
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Century Gothic";
+    line-height: 40px;
+  }
+
+  h6{
+    font-size: 32px;
+    color: #36557A;
+    font-weight: bold;
+  }
+
+  p{
+    margin-bottom: 3rem;
+  }

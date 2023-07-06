@@ -1,0 +1,379 @@
+@font-face {
+  font-family: "Century Gothic";
+  src: url(../font/Century\ Gothic.ttf);
+}
+@font-face {
+  font-family: "Gothic Bold";
+  src: url(../font/GOTHICB0.TTF);
+}  
+  
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Century Gothic";
+    line-height: 40px;
+  }
+/* heading css start */
+  h4{
+    font-size: 46px;
+    color: #36557A;
+    line-height: 50px;
+    font-weight: bold;
+  }
+
+  h6{
+    font-size: 26px;
+    color: #36557A;
+    font-weight: bold;
+    font-family: "Gothic Bold";
+  }
+  p, ul{
+    font-size: 16px;
+  }
+
+  .row-center{
+    display: flex;
+    align-items: center;
+   }  
+
+
+   /* despite start    */
+   .despite{
+    position: relative;
+    margin-top: 4rem;
+   }
+
+   .despite-back{
+    background: rgba(47, 118, 168,0.1);
+    margin-top: 4rem;
+    padding: 2rem 0;
+   }
+
+   .despite-back img{
+    position: absolute;
+    width: 500px;
+    height: auto;
+    top: 50px;
+    overflow: hidden;
+   }
+   .despite span{
+    font-size: 1.5rem;
+    color: #36557A;
+    font-weight: bold;
+    font-family: "Gothic Bold";
+   }
+   .despite p{
+    width: 80%;
+    
+   }
+   .despite ul li{
+    color: #1F1F1F;
+    
+   }
+   /* despite ends  */
+
+   /* stoping us starts  */
+
+   .stoping-us p{
+    width: 58%;
+    color: #545454;
+    padding-bottom: 1rem;
+   }
+   .stoping-us{
+    margin-top: 4rem;
+    padding: 4rem 0;
+    background: url(../Images/stoping-us-back.png);
+    background-size: 100vw 100%;
+    background-repeat: no-repeat;
+    background-color: #f2f7ec;
+   }
+   .stoping-us ul{
+    padding-left: 1rem;
+   }
+   .stoping-us img{
+    width: 100%;
+    height: 450px;
+
+   }
+   /* stoping us ends  */
+
+   /* quote starts  */
+   .quote{
+    background: url(../Images/quote-back.png);
+    background-size: 100vw 100%;
+    background-repeat: no-repeat;
+    background-color: rgba(200, 200, 200,0.1);
+    padding: 4rem 0;
+   }
+   .quote span{
+    font-size: 1.4rem;
+   }
+
+   .quote-p{
+    font-size: 1.5rem;
+   }
+   .quote p{
+    margin-bottom: 0;
+    font-family: "Gothic Bold";
+   }
+
+   /* quote ends  */
+
+   /* who-we-are starts  */
+
+   .who-we-are{
+    padding: 8rem 0;
+   }
+   .who-we-are img{
+    width: 100%;
+    height: auto;
+   }
+   /* who-we-are ends  */
+
+   /* markets start  */
+
+   .box {
+    font-size: 26px;
+    border-radius: 12px;
+    color: #545461;
+    line-height: 60px;
+    background-color: #f2f7ec;
+    padding: 40px 40px;
+    margin: 20px;
+    border: 1px solid rgba(54, 85, 122, 0.5);
+    border-radius: 12px;
+    line-height: 50px;
+  }
+
+  .markets{
+    background: url(../Images/markets-back.png);
+    background-size: 100vw 100%;
+    background-repeat: no-repeat;
+    background-color: #f2f7ec;
+    padding: 8rem 0;
+  }
+
+  .markets-back{
+    
+    z-index: 10;
+  }
+
+  .markets p{
+    line-height: 50px;
+    padding-top: 1rem;
+  }
+
+  .markets span {
+    width: 73px;
+    height: 73px;
+    background-color: #36557A;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 12px;
+}
+   /* markets ends  */
+
+   .how-market img {
+    width: 288px;
+    height: 270px;
+    margin-top: 120px;
+  }
+
+  .how-market{
+    padding: 8rem 0;
+  }
+  .how-market h4{
+    padding-bottom: 2rem;
+  }
+
+  .so-what{
+    background-image: url(../Images/so-what-back.png);
+    background-size: 100vw 100%;
+    background-repeat: no-repeat;
+    background-color: #F2F7EC;
+    padding: 4rem 0;
+    margin-bottom: 6rem;
+  }
+
+  .so-what ul{
+    padding-left: 1rem;
+  }
+
+  .so-right p{
+    width: 85%;
+    line-height: 36px;
+    margin-bottom: 0.2rem;
+
+  }
+  .so-what span{
+    font-size: 26px;
+  }
+
+  .so-what img{
+    width: 100%;
+    height: auto;
+
+  }
+
+
+  /* footer  */
+ 
+
+
+/* media screens   */
+@media screen and (max-width:1500px){
+    .despite-back img {
+        width: 450px;}
+
+}
+@media screen and (max-width:1400px){
+    .how-market img {
+        margin-top: 235px;
+    }
+}
+@media screen and (max-width:1300px){
+   
+  .despite-back img {
+        width: 400px;
+        height: auto;
+    }
+    
+}
+
+@media screen and (max-width:1200px){
+    .despite-back img{
+        position:static;
+    }
+    .stoping-us img{
+        width: 80%;
+        height: auto;
+    }
+    .col-xl-7{
+        padding-top: 2rem;
+    }
+    .col-xl-9{
+        padding-bottom: 2rem;
+    }
+    .who-we-are img {
+        width: auto;
+        height: auto;
+        margin: 50px 30%;
+    }
+    .how-market img{
+        
+            width: 300px;
+            height: auto;
+            margin: 50px 10%;
+    }
+    .so-what img{
+        width: 350px;
+        height: auto;
+    }
+    .who-we-are{
+      padding: 2rem 0;
+    }
+}
+
+@media screen and (max-width:768px){
+  *{
+    text-align: center;
+  }  
+
+  ul li{
+    text-align: left;
+  }
+  .despite-back img{
+        width: 100%;
+        height: auto;
+    }
+    .despite p{
+      width: 100%;
+    }
+    .despite-back{
+      margin-top: 1rem;
+    }
+    .stoping-us img{
+      width: 100%;
+      height: auto;
+  }
+  .stoping-us p{
+    width: 100%;
+  }
+  .stoping-us{
+    padding: 2rem 0;
+    margin-top: 2rem;
+  } 
+  .who-we-are img {
+    margin: 50px 15%;
+}
+.box{
+  margin: auto;
+  margin-bottom: 10px;
+}
+.markets h4{
+  margin-bottom: 2rem;
+}
+.box p{
+font-size: 16px;
+}
+.so-what p{
+  text-align: left;
+}
+.so-what h4{
+  text-align: left;
+}
+.so-what{
+  margin-bottom: 2rem;
+}
+.markets{
+  padding: 4rem 0;
+}
+h4{
+  font-size: 38px;
+}
+.so-what p{
+  width: 100%;
+}
+.how-market{
+  padding: 2rem 0;
+}
+.so-what img {
+  width: 100%;
+}
+
+}
+
+@media screen and (max-width:576px){
+  .box{
+    max-width: 320px;
+      line-height: 32px;
+  }
+}
+@media screen and (max-width:400px){
+  .who-we-are img {
+    margin: 50px auto;
+    width: 200px;
+}
+
+}
+
+@media screen and (min-width:1600px){
+  .markets{
+    background-size:contain;
+    background-position: center;
+  }
+  .quote{
+    background-size:contain;
+    background-position: center;
+  }
+  .stoping-us{
+    background-size:contain;
+    background-position: center;
+  }
+  .so-what{
+    background-size: contain;
+    background-position: center;
+  }
+}
+

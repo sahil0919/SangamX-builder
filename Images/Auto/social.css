@@ -1,0 +1,721 @@
+.social-marketes-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, #7cad3e, rgba(124, 173, 62, 0));
+    width: 1920px;
+    height: 722px;
+    opacity: 0.12;
+  }
+  .vector-icon {
+    position: absolute;
+    height: 5.23%;
+    width: 16.75%;
+    top: 7.57%;
+    right: -6.64%;
+    bottom: 87.2%;
+    left: 89.89%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.2;
+  }
+  .billions-are-wasted {
+    position: absolute;
+    top: 295px;
+    left: calc(50% - 578px);
+    font-size: var(--font-size-46xl);
+    line-height: 90px;
+    display: inline-block;
+    text-align: center;
+    width: 1156px;
+  }
+  .dr-michael-porter {
+    position: absolute;
+    top: 552px;
+    left: calc(50% - 274px);
+    font-size: var(--font-size-5xl);
+    line-height: 35px;
+    color: var(--green);
+  }
+  .vector-icon1,
+  .vector-icon2,
+  .vector-icon3,
+  .vector-icon4,
+  .vector-icon5 {
+    position: absolute;
+    height: 4.26%;
+    width: 30.44%;
+    top: 0;
+    right: -4.4%;
+    bottom: 95.74%;
+    left: 73.96%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.1;
+  }
+  .vector-icon2,
+  .vector-icon3,
+  .vector-icon4,
+  .vector-icon5 {
+    height: 2.18%;
+    width: 2.18%;
+    top: 5.91%;
+    right: 96.05%;
+    bottom: 91.91%;
+    left: 1.77%;
+  }
+  .vector-icon3,
+  .vector-icon4,
+  .vector-icon5 {
+    height: 0.75%;
+    width: 2.4%;
+    top: 2.79%;
+    right: 42.39%;
+    bottom: 96.46%;
+    left: 55.21%;
+  }
+  .vector-icon4,
+  .vector-icon5 {
+    height: 1.37%;
+    width: 4.58%;
+    top: 2.44%;
+    right: 41.31%;
+    bottom: 96.19%;
+    left: 54.11%;
+  }
+  .vector-icon5 {
+    height: 1.49%;
+    width: 2.47%;
+    top: 9.24%;
+    right: 86.02%;
+    bottom: 89.27%;
+    left: 11.51%;
+  }
+  .screenshot-2023-05-24-161635-r-icon {
+    position: absolute;
+    top: 21px;
+    left: 195px;
+    width: 152px;
+    height: 151px;
+    object-fit: cover;
+  }
+  .social-marketes-item {
+    position: absolute;
+    top: 722px;
+    left: 1689px;
+    background-color: var(--color-white);
+    width: 231px;
+    height: 86px;
+  }
+  .social-marketes-child1,
+  .social-marketes-inner,
+  .vector-icon6,
+  .vector-icon7 {
+    position: absolute;
+    top: 404px;
+    left: 1369px;
+    width: 174.77px;
+    height: 287px;
+    opacity: 0.1;
+  }
+  .social-marketes-child1,
+  .vector-icon6,
+  .vector-icon7 {
+    top: 181px;
+    left: 331px;
+  }
+  .vector-icon6,
+  .vector-icon7 {
+    height: 3.14%;
+    width: 15.43%;
+    top: 0;
+    right: 84.57%;
+    bottom: 96.86%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vector-icon7 {
+    height: 2.43%;
+    width: 17.05%;
+    top: 0.35%;
+    right: 82.95%;
+    bottom: 97.23%;
+  }
+  .rectangle-icon,
+  .social-marketes-child2 {
+    position: absolute;
+    top: 1856px;
+    left: 0;
+    width: 1920px;
+    height: 832px;
+  }
+  .social-marketes-child2 {
+    top: 3478px;
+    height: 1000px;
+  }
+  .group-icon,
+  .social-marketes-child3 {
+    position: absolute;
+    height: 1.37%;
+    width: 4.58%;
+    top: 31.63%;
+    right: 23.76%;
+    bottom: 67%;
+    left: 71.67%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .social-marketes-child3 {
+    top: 57.97%;
+    right: 66.67%;
+    bottom: 40.66%;
+    left: 28.75%;
+  }
+  .social-marketes-child4 {
+    position: absolute;
+    top: 2322px;
+    left: 1624px;
+    width: 174.77px;
+    height: 287px;
+    opacity: 0.1;
+  }
+  .social-marketes-child5,
+  .social-marketes-child6,
+  .social-marketes-child7 {
+    position: absolute;
+    top: 4141px;
+    left: 1602px;
+    width: 174.77px;
+    height: 287px;
+    opacity: 0.1;
+  }
+  .social-marketes-child6,
+  .social-marketes-child7 {
+    top: 1906px;
+    left: 75px;
+  }
+  .social-marketes-child7 {
+    top: 3528px;
+  }
+  .building {
+    text-transform: capitalize;
+  }
+  .societal-markets {
+    text-transform: lowercase;
+  }
+  .building-societal-markets-container {
+    top: 809px;
+    left: calc(50% - 333px);
+    text-align: center;
+  }
+  .building-societal-markets-container,
+  .significant-progress-in-container,
+  .what-is-a-container {
+    position: absolute;
+    font-size: var(--font-size-27xl);
+    letter-spacing: 0.1em;
+    line-height: 80px;
+  }
+  .what-is-a-container {
+    top: 1956px;
+    left: calc(50% - 120px);
+    display: inline-block;
+    width: 648px;
+  }
+  .significant-progress-in-container {
+    top: 2818px;
+    left: calc(50% - 764px);
+  }
+  .our-fundamental-view {
+    position: absolute;
+    top: 889px;
+    left: calc(50% - 581px);
+    font-size: var(--font-size-lg);
+    line-height: 40px;
+    color: var(--color-dimgray);
+    text-align: center;
+    display: inline-block;
+    width: 1164px;
+  }
+  .a-social-stock-exchange-is-the {
+    margin: 0;
+  }
+  .sses-are-exchanges-on-which-np {
+    margin: 0;
+    color: var(--color-dimgray);
+  }
+  .a-social-stock-container {
+    position: absolute;
+    top: 2119px;
+    left: calc(50% - 120px);
+    font-size: var(--font-size-lg);
+    line-height: 40px;
+    display: inline-block;
+    width: 885px;
+    color: var(--color-gray);
+  }
+  .now-building-the-container {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 427px);
+    letter-spacing: 0.1em;
+    line-height: 80px;
+    display: inline-block;
+    width: 854px;
+  }
+  .impact-ticker,
+  .that-will-enable {
+    font-family: var(--font-century-gothic);
+    color: var(--color-steelblue-300);
+  }
+  .that-will-enable {
+    color: var(--color-dimgray);
+  }
+  .in-a-free-container {
+    position: absolute;
+    top: 160px;
+    left: calc(50% - 426px);
+    font-size: var(--font-size-lg);
+    line-height: 40px;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 735px;
+    color: var(--color-dimgray);
+  }
+  .now-building-the-core-of-soci-parent {
+    position: absolute;
+    top: 3578px;
+    left: 195px;
+    width: 854px;
+    height: 800px;
+    font-size: var(--font-size-27xl);
+  }
+  .this-level-of {
+    margin: 0;
+    color: var(--color-gray);
+  }
+  .in-india-the-container {
+    position: absolute;
+    top: 2898px;
+    left: calc(50% - 764px);
+    font-size: var(--font-size-lg);
+    line-height: 40px;
+    display: inline-block;
+    width: 1033px;
+    color: var(--color-dimgray);
+  }
+  .frame-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50%;
+    background-color: var(--color-white);
+    box-shadow: 10px 14px 44px rgba(0, 0, 0, 0.07);
+    width: 377px;
+    height: 377px;
+  }
+  .participants-in-societal {
+    position: absolute;
+    top: 148px;
+    left: calc(50% - 160.5px);
+    line-height: 40px;
+    display: inline-block;
+    width: 321px;
+  }
+  .ellipse-parent {
+    position: absolute;
+    top: 1160px;
+    left: 773px;
+    width: 377px;
+    height: 377px;
+    text-align: center;
+  }
+  .span1 {
+    color: var(--color-gray);
+  }
+  .o {
+    text-transform: uppercase;
+  }
+  .organisations-with-credible-in {
+    font-size: var(--font-size-lg);
+    color: var(--color-dimgray);
+  }
+  .institutional-and-individual-container,
+  .non-profit-organisations-and-container {
+    position: absolute;
+    top: 1054px;
+    left: calc(50% - 764px);
+    letter-spacing: 0.1em;
+    line-height: 40px;
+    display: inline-block;
+    width: 577px;
+  }
+  .institutional-and-individual-container {
+    top: 1248px;
+    width: 545px;
+  }
+  .highly-credible-long-standing {
+    font-size: var(--font-size-lg);
+    color: var(--color-gray);
+  }
+  .specialists-highly-credible-container {
+    position: absolute;
+    top: 1482px;
+    left: calc(50% - 762px);
+    letter-spacing: 0.1em;
+    line-height: 40px;
+    display: inline-block;
+    width: 575px;
+  }
+  .capacity-building-agencies-wou-container,
+  .enablers-and-intermediaries-container,
+  .social-auditors-whose-container {
+    position: absolute;
+    top: 1442px;
+    left: calc(50% + 242px);
+    letter-spacing: 0.1em;
+    line-height: 40px;
+    text-align: right;
+    display: inline-block;
+    width: 524px;
+  }
+  .capacity-building-agencies-wou-container,
+  .social-auditors-whose-container {
+    top: 1054px;
+  }
+  .capacity-building-agencies-wou-container {
+    top: 1248px;
+    left: calc(50% + 257px);
+    width: 509px;
+  }
+  .social-marketes-child8 {
+    position: absolute;
+    height: 1.37%;
+    width: 4.58%;
+    top: 12.42%;
+    right: 28.44%;
+    bottom: 86.21%;
+    left: 66.98%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .social-marketes-child10,
+  .social-marketes-child9 {
+    position: absolute;
+    top: 1956px;
+    left: 195px;
+    border-radius: var(--br-11xl);
+    width: 583px;
+    height: 632px;
+    object-fit: cover;
+  }
+  .social-marketes-child10 {
+    top: 2818px;
+    left: 1275px;
+    width: 450px;
+    height: 480px;
+  }
+  .frame-child1,
+  .frame-child2,
+  .frame-inner,
+  .frame-item {
+    position: absolute;
+    top: 0;
+    left: 380px;
+    border-radius: var(--br-base);
+    width: 358px;
+    height: 287px;
+    object-fit: cover;
+  }
+  .frame-child1,
+  .frame-child2,
+  .frame-inner {
+    top: 313.64px;
+    height: 392.36px;
+  }
+  .frame-child1,
+  .frame-child2 {
+    top: 0;
+    left: 0;
+    height: 371.77px;
+  }
+  .frame-child2 {
+    top: 398.41px;
+    height: 306.38px;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 3672px;
+    left: 987px;
+    width: 738px;
+    height: 706px;
+  }
+  .contact-us,
+  .home,
+  .impact-tricker,
+  .social-marketes1,
+  .who-are-we {
+    position: absolute;
+    top: 30px;
+    left: 1097px;
+    font-size: var(--font-size-base);
+    letter-spacing: 0.04em;
+    line-height: 16px;
+  }
+  .contact-us,
+  .home,
+  .impact-tricker,
+  .who-are-we {
+    left: 1290px;
+    color: var(--color-gray);
+  }
+  .contact-us,
+  .home,
+  .impact-tricker {
+    left: 988px;
+  }
+  .contact-us,
+  .impact-tricker {
+    left: 1454px;
+  }
+  .contact-us {
+    left: 1632px;
+  }
+  .philanthropy-is-decades {
+    position: absolute;
+    top: 491px;
+    left: calc(50% - 546px);
+    font-size: var(--font-size-6xl);
+    line-height: 35px;
+    color: var(--color-dimgray);
+  }
+  .social-marketes-child11 {
+    position: absolute;
+    top: 4478px;
+    left: 0;
+    width: 1920px;
+    height: 1092px;
+  }
+  .social-marketes-child12 {
+    position: absolute;
+    height: 1.37%;
+    width: 4.58%;
+    top: 84.51%;
+    right: 66.67%;
+    bottom: 14.12%;
+    left: 28.75%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .social-marketes-child13,
+  .social-marketes-child14 {
+    position: absolute;
+    top: 5276px;
+    left: 1713px;
+    width: 110px;
+    height: 181px;
+    opacity: 0.1;
+  }
+  .social-marketes-child14 {
+    top: 5114px;
+    left: 121px;
+  }
+  .social-marketes-child15 {
+    position: absolute;
+    top: 4585px;
+    left: 195px;
+    border-radius: var(--br-11xl);
+    width: 625px;
+    height: 403px;
+    object-fit: cover;
+  }
+  .what-is-sangamx-container {
+    position: absolute;
+    top: 4585px;
+    left: calc(50% - 97px);
+    font-size: var(--font-size-27xl);
+    letter-spacing: 0.1em;
+    line-height: 80px;
+  }
+  .at-the-crux-of-our-proposition {
+    margin: 0;
+    color: var(--color-steelblue-300);
+  }
+  .at-the-crux-container {
+    position: absolute;
+    top: 4665px;
+    left: calc(50% - 97px);
+    font-size: var(--font-size-lg);
+    line-height: 40px;
+    display: inline-block;
+    width: 865px;
+    color: var(--color-dimgray);
+  }
+  .social-marketes-child16 {
+    position: absolute;
+    top: 5135px;
+    left: 819px;
+    width: 282px;
+    height: 282px;
+  }
+  .bring-the-full-free-markets {
+    margin: 0;
+    font-size: var(--font-size-lg);
+    color: var(--color-dimgray);
+  }
+  .impact-investors-container {
+    position: absolute;
+    top: 5154px;
+    left: calc(50% + 153px);
+    letter-spacing: 0.1em;
+    line-height: 40px;
+    text-align: right;
+    display: inline-block;
+    width: 607px;
+  }
+  .intermediary {
+    font-family: var(--font-century-gothic);
+  }
+  .npo-intermediary-role-container,
+  .society-changing-container {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 291px);
+    letter-spacing: 0.1em;
+    line-height: 40px;
+    display: inline-block;
+    width: 582px;
+  }
+  .society-changing-container {
+    top: 224px;
+    left: calc(50% - 288px);
+    width: 549px;
+  }
+  .npo-intermediary-role-to-enabl-parent {
+    position: absolute;
+    top: 5082px;
+    left: 195px;
+    width: 582px;
+    height: 388px;
+  }
+  .rectangle-div {
+    position: absolute;
+    bottom: -468px;
+    left: 1920px;
+    background-color: var(--green);
+    width: 1920px;
+    height: 528px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+  }
+  .build-and-continuously-container {
+    position: absolute;
+    top: 5818px;
+    left: calc(50% - 365px);
+    font-size: var(--font-size-lg);
+    letter-spacing: 0.1em;
+    line-height: 40px;
+    display: inline-block;
+    color: var(--color-white);
+    text-align: center;
+    width: 730px;
+  }
+  .social-marketes-child17,
+  .social-marketes-child18 {
+    position: absolute;
+    top: 5839px;
+    left: 1288px;
+    width: 121px;
+    height: 198.7px;
+    opacity: 0.1;
+  }
+  .social-marketes-child18 {
+    top: 5719px;
+    left: 504px;
+    height: 199px;
+  }
+  .vector-icon10,
+  .vector-icon8,
+  .vector-icon9 {
+    position: absolute;
+    height: 3.09%;
+    width: 9.9%;
+    top: 96.8%;
+    right: -0.57%;
+    bottom: 0.11%;
+    left: 90.68%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.2;
+  }
+  .vector-icon10,
+  .vector-icon9 {
+    height: 2.29%;
+    width: 16.35%;
+    top: 90.45%;
+    right: -0.89%;
+    bottom: 7.26%;
+    left: 84.53%;
+    opacity: 0.1;
+  }
+  .vector-icon10 {
+    height: 2.18%;
+    width: 2.18%;
+    top: 96.38%;
+    right: 96.78%;
+    bottom: 1.44%;
+    left: 1.04%;
+  }
+  .screenshot-2023-05-24-161635-r-icon1 {
+    position: absolute;
+    top: 5670px;
+    left: calc(50% - 68px);
+    width: 136px;
+    height: 135.62px;
+    object-fit: cover;
+  }
+  .home-social,
+  .sangamx-inc {
+    position: absolute;
+    letter-spacing: 0.04em;
+    line-height: 16px;
+  }
+  .home-social {
+    top: 5982px;
+    left: calc(50% - 360px);
+    font-size: var(--font-size-xl);
+  }
+  .sangamx-inc {
+    top: 22px;
+    left: calc(50% - 77px);
+  }
+  .sangamx-inc-wrapper {
+    position: absolute;
+    top: 6098px;
+    left: 0;
+    background-color: var(--color-steelblue-200);
+    width: 1920px;
+    height: 60px;
+    font-size: var(--font-size-sm);
+    color: var(--color-white);
+  }
+  .social-marketes {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 6128px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-7xl);
+    color: var(--color-steelblue-300);
+    font-family: var(--font-century-gothic);
+  }
+  

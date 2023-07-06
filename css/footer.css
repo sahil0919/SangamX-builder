@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Century Gothic";
+  src: url(../font/GOTHICI.TTF);
+}
+@font-face {
+  font-family: "Gothic Bold";
+  src: url(../font/GOTHICB0.TTF);
+}  
+
+footer{
+  font-family: "Century Gothic";
+    background-color: #7CAD3E;
+    background-image: url(./Images/footer.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 4rem 0;
+  }
+  .logo-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+  }
+  
+  .text-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    line-height: 40px;
+    
+  }
+
+  .text-footer p{
+    width: 50%;
+    color: white;
+  }
+  
+  .links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    
+  }
+  
+  .links a{
+    text-decoration: none;
+    color: #36557A;
+    font-weight: bold;
+    padding: 10px;
+    border-right:1px solid black ;
+    line-height: 10px;
+  }
+
+  @media screen and (max-width:768px){
+    
+    .links{
+        flex-direction: column;
+    }
+    .links a{
+        border: none;
+
+    }
+    .text-footer p{
+      width: 100%;
+    }
+}

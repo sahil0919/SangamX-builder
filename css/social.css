@@ -1,0 +1,341 @@
+@font-face {
+  font-family: "Century Gothic";
+  src: url(../font/Century\ Gothic.ttf);
+}
+@font-face {
+  font-family: "Gothic Bold";
+  src: url(../font/GOTHICB0.TTF);
+}  
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Century Gothic";
+  line-height: 40px;
+}
+
+h4{
+  font-size: 42px;
+  color: #36557A;
+  line-height: 50px;
+  font-weight: bold;
+  font-family: "Gothic Bold";
+}
+
+h6{
+  font-size: 26px;
+  color: #36557A;
+  font-weight: bold;
+  font-family: "Gothic Bold";
+}
+p, ul{
+  font-size: 16px;
+}
+
+.row-center{
+  display: flex;
+  align-items: center;
+ }
+
+.how-market {
+  padding: 2rem 0;
+}
+
+.how-head {
+  display: grid;
+  place-items: center;
+}
+
+.how-head p {
+  max-width: 72.75rem;
+  text-align: center;
+  font-size: 1.1rem;
+  line-height: 2.5rem;
+}
+
+.how-li span {
+  font-weight: bolder;
+  color: #36557A;
+  font-size: 1.6rem;
+}
+
+.how-li p {
+  line-height: 38px;
+}
+
+.how-head h2{
+  font-size: 46px;
+  color: #36557A;
+}
+
+.how-head p{
+  color: #545454;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.how-right{
+  text-align: right;
+}
+
+.how-li img{
+  width: 288px;
+  height: 270px;
+  margin-top: 120px;
+}
+.sse{
+  min-height: 650px;
+  background-color: #F2F7EC;
+  padding-top: 60px;
+}
+
+.sse-text h2{
+  width: 85%;
+}
+
+.title h2{
+  font-size: 46px;
+  line-height: 80px;
+  letter-spacing: 10%;
+  color: #36557A;
+  font-weight: 600;
+  
+}
+.sse{
+  padding: 4rem 0;
+  background: url(../Images/sse-back.png);
+  background-size: 100vw 100%;
+  background-repeat: no-repeat;}
+
+.para p{
+  width: 885px;
+  color: #545454;
+  
+}
+.para li{
+  width: 885px;
+  color: #545454;
+}
+
+.sse-text p{
+  width: 100%;
+}
+.sse img{
+  width:100%;
+  height: auto;
+  padding-top: 2.5rem;
+}
+.sse-img{
+    padding-top: 17px;
+}
+.spi{
+  padding: 4rem 0;
+}
+
+.spi-back{
+  background: url(../Images/spi-back.png);
+  background-size: 100vw 100%;
+  background-repeat: no-repeat;
+}
+.spi-img img{
+  width: 100%;
+    height: auto;
+    padding-top: 20px;
+}
+/* .spi-text {
+  padding-left: 60px;
+} */
+
+.spi-text p{
+  width:100%;
+}
+.spi-text li{
+  width: 100%;
+}
+.spi ul{
+  padding-left: 1rem;
+}
+
+.building{
+  min-height: 600px;
+  background-color: #F2F7EC;
+  padding: 4rem 0;
+}
+.building-img img{
+  width: 100%;
+  height: auto;
+  padding-top: 2rem;
+}
+
+.building p{
+  color: #545454;
+  width: 100%;
+}
+
+.building li{
+  color: #36557A;
+  font-weight: 600;
+}
+
+.role{
+  padding: 4rem 0 4rem 0;
+}
+
+.role ul{
+  padding-left: 1rem;
+}
+.role img{
+  width:100%;
+  height: auto;
+}
+
+.npo{
+  padding: 4rem 0;
+}
+.npo img{
+  width: 220px;
+  height: 200px;
+}
+.npo-right ul{
+  list-style: none;
+}
+
+.npo-left{
+  width: 100%;
+}
+
+.npo-right{
+  width: 100%;
+}
+/* .npo-left p{
+  width: 288px;
+  
+}
+.npo-right p{
+  width: 288px; 
+} */
+
+.npo-right{
+  text-align: right;
+}
+/* Media Queries */
+
+@media screen and (max-width:1400px)
+{
+  .sse img{
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media screen and (max-width:1200px){
+  *{
+    text-align: center;
+  }
+
+  ul li{
+    text-align: left;
+  }
+  .how-li p{
+    width: 100%;
+  }
+  .how-li img{
+    width: 400px;
+    height: auto;
+    margin-top: 0;
+    margin: auto;
+  }
+  .sse img{
+    width: auto;
+  }
+  .building-img img{
+    width: auto;
+  }
+  .role img{
+    width: auto;
+  }
+  .npo img{
+    margin: auto;
+    height: auto;
+  }
+  .npo-right p{
+    text-align: left;
+  }
+  .spi-img img{
+    width: auto;
+  }
+}
+@media screen and (max-width: 968px) {
+  
+  .how-market {
+    padding-top: 20%;
+  }
+
+  .how-head p {
+    font-size: 1rem;
+    line-height: 2rem;
+  }
+
+  .how-li span {
+    font-size: 1.4rem;
+  }
+  .how-li img{
+    width: 300px;
+    height: auto;
+    margin-top: 0;
+    margin: auto;
+  }
+  .sse img{
+    width: 100%;
+  }
+  .sse{
+    padding: 2rem 0;
+  }
+  .how-market{
+    padding-top: 1rem;
+  }
+  .sse-text{
+    padding-left: 0;
+  }
+  .npo{
+    padding: 2rem 0;
+  }
+  .building-img img{
+    width: 80%;
+  }
+  .role img{
+    width: 80%;
+  }
+  h4{
+    font-size: 38px;
+  }
+
+  .role{
+    padding: 2rem 0;
+  }
+  .spi-img img{
+    width: 100%;
+  }
+  /* .how-li p {
+    max-width: 25rem;
+  } */
+}
+
+@media screen and(max-width:380px){
+  
+  .spi-text{
+    padding-left: 0;
+  }
+}
+
+@media screen and (min-width:1600px){
+  .sse{
+    background-size:contain;
+    background-position: center;
+  }
+  .spi-back{
+    background-size:contain;
+    background-position: center;
+  }
+}

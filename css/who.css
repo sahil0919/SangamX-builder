@@ -1,0 +1,238 @@
+@font-face {
+    font-family: "Century Gothic";
+    src: url(../font/Century\ Gothic.ttf);
+  }
+  @font-face {
+    font-family: "Gothic Bold";
+    src: url(../font/GOTHICB0.TTF);
+  }  
+  
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Century Gothic";
+  }
+
+
+.row-center{
+     display: flex; align-items: center;
+    }  
+
+    h4, h2{
+        color: #36557A;
+        font-weight: 600;
+        font-size: 46px;
+    }
+    
+    h5{
+        color: #36557A;
+        font-weight: 600;
+        font-size: 26px;
+    }
+
+    h6{
+        font-size: 26px;
+        color: #1F1F1F;
+        font-family: "Bold";
+    }
+    p{
+        font-size: 16px;
+        line-height: 40px;
+        color: #545454;
+        font-weight: 100;
+    }
+
+/* Who we are css start */
+.who-are-we{
+    background-color: #F2F7EC;
+    min-height: 550px;
+    padding-top: 80px;
+}
+
+.who-are-we img{
+    width: 80%;
+    height: auto;
+}
+
+.who-are-we p{
+    width: 85%;
+}
+
+.who-back{
+    background-image: url(../Images/who-back.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* who we are css ends */
+/* contribution css start */
+.contri-w-1{
+    min-height: 250px;
+}
+.contri-w-1 p{
+    min-height: 197px;
+}
+.box{
+    background: #FFFFFF;
+    border: 1px solid #F1FAF8;
+    box-shadow: 10px 14px 44px rgba(0, 0, 0, 0.07);
+    border-radius: 18px;
+    font-size: 18px;
+    padding: 15px;
+}
+
+.p-box{
+    min-height: 100%;
+    
+}
+
+.s-b{
+    height: 100px;
+}
+.contribution{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.contribution h2{
+    text-align: center;
+    max-width: 1200px;
+    margin-bottom: 40px;
+
+}
+/* end here */
+/* team start */
+.team h2{
+    width: 80%;
+}
+.team img{
+    width: 100%;
+    height: auto;
+}
+
+
+.st{
+    margin-bottom: 0;
+    font-size: 22px;
+    color: #36557A;
+}
+
+.team-can{
+    background-image: url(../Images/team-back.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/* end */
+
+/* Ethos start */
+
+.Ethos{
+    padding-top: 180px;
+    padding-bottom: 180px;
+}
+.ethos-can{
+    background-color: #F2F7EC;
+    background-image: url(../Images/new.png);
+    background-position: center;
+    background-size: cover;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    padding-bottom: 60px;
+    padding-left: 50px;
+    padding-top: 50px;
+    min-height: 920px;
+}
+.ethos-head{
+    text-align: center;
+    min-height: 100px;
+    
+}
+.ethos-can p{
+    padding: 10px;
+   
+}
+.Ethos h4{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.ethos-can h6{
+    padding-top: 20px;
+    margin-bottom: -10px;
+    font-weight: 700px;
+    color: #1F1F1F;
+}
+/* end */
+/* media screen start */
+@media screen and (max-width:1400px){
+    .contri-w-1 p{
+        min-height: 230px;
+    }
+}
+
+@media screen and (max-width:1200px){
+    .contri-w-1 p{
+        min-height: 280px;
+    }
+}
+@media screen and (max-width:992px){
+    .offset-md-3{
+        margin-left: unset;
+    }
+    .team h5{
+        padding-top: 20px;
+
+    }
+    .who-are-we img{
+        width: auto;
+        height: auto;
+        margin-bottom: 20px;
+    }
+    .who-are-we{
+        text-align: center;
+        padding-bottom: 40px;
+    }
+    .who-are-we p{
+        width: 100%;
+    }
+    .contri-w-1 p {
+        min-height: 160px;
+    }
+    .b-b{
+        margin-bottom: 2rem;
+    }
+    .Ethos{
+        text-align: center;
+    }
+    h4{
+        font-size: 38px;
+      }
+      .contribution{
+        padding-bottom: 0;
+      }
+      .Ethos{
+        padding: 2rem 0;
+      }
+      .ethos-can{
+        padding-left: 0;
+      }
+}
+/* @media screen and (max-width:769px){
+    
+} */
+
+  
+@media screen and (max-width:575px){
+    h2{
+        font-size: 38px;
+        min-width: 100%;
+    }
+}
+
+@media screen and (max-width:470px){
+    .who-are-we img{
+        width: 100%;
+    }
+}
+
+

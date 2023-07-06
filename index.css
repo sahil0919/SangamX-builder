@@ -1,0 +1,1003 @@
+.home-page-child {
+    position: absolute;
+    top: 2423px;
+    left: 0;
+    background-color: #c8c8c8;
+    width: 1920px;
+    height: 388px;
+    opacity: 0.1;
+  }
+  .home-page-inner,
+  .home-page-item {
+    position: absolute;
+    top: 1516px;
+    left: 0;
+    width: 1920px;
+    height: 907px;
+  }
+  .home-page-inner {
+    top: 0;
+    background: linear-gradient(180deg, #7cad3e, rgba(124, 173, 62, 0));
+    height: 722px;
+    opacity: 0.12;
+  }
+  .vector-icon {
+    position: absolute;
+    height: 4.67%;
+    width: 16.75%;
+    top: 6.76%;
+    right: -6.64%;
+    bottom: 88.57%;
+    left: 89.89%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.2;
+  }
+  .billions-are-wasted {
+    position: absolute;
+    top: 295px;
+    left: calc(50% - 578px);
+    font-size: 65px;
+    line-height: 90px;
+    display: inline-block;
+    text-align: center;
+    width: 1156px;
+  }
+  .dr-michael-porter,
+  .philanthropy-is-decades {
+    position: absolute;
+    top: 491px;
+    left: calc(50% - 546px);
+    font-size: var(--font-size-6xl);
+    line-height: 35px;
+    color: var(--color-dimgray);
+  }
+  .dr-michael-porter {
+    top: 552px;
+    left: calc(50% - 274px);
+    font-size: var(--font-size-5xl);
+    color: var(--green);
+  }
+  .vector-icon1,
+  .vector-icon2,
+  .vector-icon3,
+  .vector-icon4 {
+    position: absolute;
+    height: 3.8%;
+    width: 30.44%;
+    top: 0;
+    right: -4.4%;
+    bottom: 96.2%;
+    left: 73.96%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.1;
+  }
+  .vector-icon2,
+  .vector-icon3,
+  .vector-icon4 {
+    height: 1.95%;
+    width: 2.18%;
+    top: 5.28%;
+    right: 96.05%;
+    bottom: 92.77%;
+    left: 1.77%;
+  }
+  .vector-icon3,
+  .vector-icon4 {
+    height: 0.67%;
+    width: 2.4%;
+    top: 2.49%;
+    right: 42.39%;
+    bottom: 96.84%;
+    left: 55.21%;
+  }
+  .vector-icon4 {
+    top: 23.38%;
+    right: 57.29%;
+    bottom: 75.95%;
+    left: 40.31%;
+  }
+  .vector-icon10,
+  .vector-icon5,
+  .vector-icon6,
+  .vector-icon7,
+  .vector-icon8,
+  .vector-icon9 {
+    position: absolute;
+    height: 0.28%;
+    width: 9.53%;
+    top: 26.44%;
+    right: 10.05%;
+    bottom: 73.29%;
+    left: 80.42%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.1;
+  }
+  .vector-icon10,
+  .vector-icon6,
+  .vector-icon7,
+  .vector-icon8,
+  .vector-icon9 {
+    top: 26.71%;
+    bottom: 73.01%;
+  }
+  .vector-icon10,
+  .vector-icon7,
+  .vector-icon8,
+  .vector-icon9 {
+    height: 1.22%;
+    width: 4.58%;
+    top: 2.18%;
+    right: 41.31%;
+    bottom: 96.6%;
+    left: 54.11%;
+  }
+  .vector-icon10,
+  .vector-icon8,
+  .vector-icon9 {
+    height: 1.28%;
+    width: 4.36%;
+    top: 23.05%;
+    right: 56.2%;
+    bottom: 75.66%;
+    left: 39.44%;
+  }
+  .vector-icon10,
+  .vector-icon9 {
+    height: 1.33%;
+    width: 2.47%;
+    top: 8.25%;
+    right: 86.02%;
+    bottom: 90.42%;
+    left: 11.51%;
+  }
+  .vector-icon10 {
+    height: 0.69%;
+    width: 4.79%;
+    top: 15.04%;
+    right: 38.81%;
+    bottom: 84.28%;
+    left: 56.41%;
+  }
+  .screenshot-2023-05-24-161635-r-icon {
+    position: absolute;
+    top: 21px;
+    left: 195px;
+    width: 152px;
+    height: 151px;
+    object-fit: cover;
+  }
+  .despite-annual-global {
+    position: absolute;
+    top: 906px;
+    left: calc(50% - 765px);
+    line-height: 60px;
+    display: inline-block;
+    width: 1116px;
+  }
+  .rectangle-div {
+    position: absolute;
+    top: 1115px;
+    left: 195px;
+    background-color: var(--color-steelblue-200);
+    width: 1725px;
+    height: 221px;
+    opacity: 0.1;
+  }
+  .income-gap-is {
+    margin: 0;
+  }
+  .income-gap-is-container {
+    position: absolute;
+    top: 1145px;
+    left: calc(50% - 739px);
+    font-size: 20px;
+    line-height: 40px;
+    color: var(--color-gray);
+    display: inline-block;
+    width: 1090px;
+  }
+  .home-page-child1 {
+    position: absolute;
+    top: 722px;
+    left: 1689px;
+    background-color: var(--color-white);
+    width: 231px;
+    height: 86px;
+  }
+  .what {
+    text-transform: capitalize;
+  }
+  .is-stopping-us {
+    text-transform: lowercase;
+  }
+  .what-is-stopping-container {
+    position: absolute;
+    top: 1616px;
+    left: calc(50% - 765px);
+    font-size: var(--font-size-27xl);
+    letter-spacing: 0.1em;
+    line-height: 80px;
+  }
+  .despite-these-we {
+    position: absolute;
+    top: 1696px;
+    left: calc(50% - 765px);
+    font-size: var(--font-size-lg);
+    line-height: 40px;
+    color: var(--color-dimgray);
+    display: inline-block;
+    width: 665px;
+  }
+  .group-icon {
+    position: absolute;
+    height: 8.08%;
+    width: 47.37%;
+    top: 11.92%;
+    right: 2.63%;
+    bottom: 80%;
+    left: 50%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .home-page-child2,
+  .home-page-child3,
+  .home-page-child4,
+  .rectangle-icon {
+    position: absolute;
+    top: 1806px;
+    left: 535px;
+    border-radius: var(--br-base);
+    width: 320px;
+    height: 210px;
+    object-fit: cover;
+  }
+  .home-page-child2,
+  .home-page-child3,
+  .home-page-child4 {
+    top: 2036px;
+    height: 287px;
+  }
+  .home-page-child3,
+  .home-page-child4 {
+    top: 1806px;
+    left: 195px;
+    height: 272px;
+  }
+  .home-page-child4 {
+    top: 2098px;
+    height: 224px;
+  }
+  .social-impact-organisations1 {
+    line-height: 50px;
+  }
+  .capital-is-expensive-hard-to1 {
+    line-height: 40px;
+  }
+  .capital-is-expensive-hard-to {
+    margin: 0;
+    font-size: var(--font-size-lg);
+    color: var(--color-gray);
+  }
+  .social-impact-organisations-container {
+    position: absolute;
+    top: 1807px;
+    left: calc(50% - 65px);
+    letter-spacing: 0.1em;
+    display: inline-block;
+    width: 830px;
+  }
+  .home-page-child5,
+  .home-page-child6 {
+    position: absolute;
+    top: 404px;
+    left: 1369px;
+    width: 174.77px;
+    height: 287px;
+    opacity: 0.1;
+  }
+  .home-page-child6 {
+    top: 2625px;
+    left: 1127px;
+    width: 93px;
+    height: 153px;
+  }
+  .home-page-child7,
+  .home-page-child8 {
+    position: absolute;
+    top: 181px;
+    left: 331px;
+    width: 174.77px;
+    height: 287px;
+    opacity: 0.1;
+  }
+  .home-page-child8 {
+    top: 2566px;
+    left: 674px;
+    width: 93px;
+    height: 153px;
+  }
+  .home-page-child10,
+  .home-page-child9 {
+    position: absolute;
+    top: 1531px;
+    left: 29px;
+    width: 174.77px;
+    height: 287px;
+    opacity: 0.1;
+  }
+  .home-page-child10 {
+    top: 2047px;
+    left: 1625px;
+  }
+  .vector-icon11,
+  .vector-icon12 {
+    position: absolute;
+    height: 2.8%;
+    width: 15.43%;
+    top: 0;
+    right: 84.57%;
+    bottom: 97.2%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.1;
+  }
+  .vector-icon12 {
+    height: 2.17%;
+    width: 17.05%;
+    top: 0.31%;
+    right: 82.95%;
+    bottom: 97.52%;
+  }
+  .home-page-child11 {
+    position: absolute;
+    top: 3574px;
+    left: 0;
+    width: 1920px;
+    height: 1251px;
+  }
+  .vector-icon13 {
+    height: 0.69%;
+    width: 4.79%;
+    top: 61.21%;
+    right: 23.6%;
+    bottom: 38.1%;
+    left: 71.61%;
+    opacity: 0.1;
+  }
+  .home-page-child12,
+  .vector-icon13,
+  .vector-icon14,
+  .vector-icon15 {
+    position: absolute;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vector-icon14 {
+    height: 0.28%;
+    width: 9.53%;
+    top: 57.73%;
+    right: 10.05%;
+    bottom: 41.99%;
+    left: 80.42%;
+    opacity: 0.1;
+  }
+  .home-page-child12,
+  .vector-icon15 {
+    height: 1.22%;
+    width: 4.58%;
+    top: 52.73%;
+    right: 53.91%;
+    bottom: 46.05%;
+    left: 41.51%;
+  }
+  .vector-icon15 {
+    height: 1.33%;
+    width: 2.47%;
+    top: 66.65%;
+    right: 48.78%;
+    bottom: 32.02%;
+    left: 48.75%;
+    opacity: 0.1;
+  }
+  .down-arrow-3-icon,
+  .down-arrow-3-icon1,
+  .down-arrow-3-icon2,
+  .down-arrow-3-icon3,
+  .down-arrow-3-icon4 {
+    position: absolute;
+    height: 0.09%;
+    width: 0.52%;
+    top: 58.47%;
+    right: 18.96%;
+    bottom: 41.44%;
+    left: 80.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .down-arrow-3-icon1,
+  .down-arrow-3-icon2,
+  .down-arrow-3-icon3,
+  .down-arrow-3-icon4 {
+    top: 60.76%;
+    right: 26.46%;
+    bottom: 39.15%;
+    left: 73.02%;
+  }
+  .down-arrow-3-icon2,
+  .down-arrow-3-icon3,
+  .down-arrow-3-icon4 {
+    top: 63.23%;
+    right: 41.46%;
+    bottom: 36.69%;
+    left: 58.02%;
+  }
+  .down-arrow-3-icon3,
+  .down-arrow-3-icon4 {
+    top: 64.56%;
+    right: 21.35%;
+    bottom: 35.35%;
+    left: 78.13%;
+  }
+  .down-arrow-3-icon4 {
+    top: 65.12%;
+    right: 35.94%;
+    bottom: 34.79%;
+    left: 63.54%;
+  }
+  .home-page-child13 {
+    position: absolute;
+    top: 4499px;
+    left: 1592px;
+    width: 174.77px;
+    height: 287px;
+    opacity: 0.1;
+  }
+  .home-page-child14,
+  .home-page-child15,
+  .home-page-child16,
+  .home-page-child17 {
+    position: absolute;
+    top: 3776px;
+    left: 195px;
+    border-radius: var(--br-xs);
+    background-color: var(--color-floralwhite);
+    border: 1px solid var(--color-steelblue-400);
+    box-sizing: border-box;
+    width: 750px;
+    height: 452px;
+  }
+  .home-page-child15,
+  .home-page-child16,
+  .home-page-child17 {
+    top: 4259px;
+  }
+  .home-page-child16,
+  .home-page-child17 {
+    top: 3776px;
+    left: 976px;
+  }
+  .home-page-child17 {
+    top: 4259px;
+  }
+  .vector-icon16,
+  .vector-icon17,
+  .vector-icon18 {
+    position: absolute;
+    height: 4.7%;
+    width: 16.86%;
+    top: 45.95%;
+    right: 0.38%;
+    bottom: 49.34%;
+    left: 82.76%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.06;
+  }
+  .vector-icon17,
+  .vector-icon18 {
+    height: 4.67%;
+    width: 16.75%;
+    top: 46.69%;
+    right: -6.64%;
+    bottom: 48.64%;
+    left: 89.89%;
+  }
+  .vector-icon18 {
+    height: 1.95%;
+    width: 2.18%;
+    top: 60.85%;
+    right: 96.05%;
+    bottom: 37.2%;
+    left: 1.77%;
+    opacity: 0.1;
+  }
+  .why-societal-markets-container {
+    position: absolute;
+    top: 3674px;
+    left: calc(50% - 765px);
+    font-size: var(--font-size-27xl);
+    letter-spacing: 0.1em;
+    line-height: 80px;
+  }
+  .who-are-we-container {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 432.5px);
+    letter-spacing: 0.1em;
+    line-height: 80px;
+  }
+  .we-are-bringing {
+    margin: 0;
+    color: var(--color-gray);
+  }
+  .at-sangamx-were-container {
+    position: absolute;
+    top: 83px;
+    left: calc(50% - 432.5px);
+    font-size: var(--font-size-lg);
+    line-height: 40px;
+    display: inline-block;
+    width: 865px;
+    color: var(--color-dimgray);
+  }
+  .who-are-we-parent {
+    position: absolute;
+    top: 3030px;
+    left: 195px;
+    width: 865px;
+    height: 323px;
+    font-size: var(--font-size-27xl);
+  }
+  .home-page-child18 {
+    position: absolute;
+    top: 3588px;
+    left: 75px;
+    width: 174.77px;
+    height: 287px;
+    opacity: 0.1;
+  }
+  .home-page-child19,
+  .home-page-child20,
+  .home-page-child21,
+  .home-page-child22 {
+    position: absolute;
+    top: 3806px;
+    left: 225px;
+    border-radius: var(--br-xs);
+    background-color: var(--color-steelblue-300);
+    width: 73px;
+    height: 73px;
+  }
+  .home-page-child20,
+  .home-page-child21,
+  .home-page-child22 {
+    top: 4289px;
+  }
+  .home-page-child21,
+  .home-page-child22 {
+    top: 3806px;
+    left: 1006px;
+  }
+  .home-page-child22 {
+    top: 4289px;
+  }
+  .we-also-believe,
+  .we-believe-that,
+  .we-believe-that1,
+  .we-believe-that2 {
+    position: absolute;
+    top: 3901px;
+    left: calc(50% - 735px);
+    line-height: 60px;
+    color: var(--color-dimgray);
+    display: inline-block;
+    width: 639px;
+  }
+  .we-also-believe,
+  .we-believe-that1,
+  .we-believe-that2 {
+    top: 4384px;
+    width: 660px;
+  }
+  .we-also-believe,
+  .we-believe-that2 {
+    top: 3901px;
+    left: calc(50% + 46px);
+    width: 684px;
+  }
+  .we-also-believe {
+    top: 4384px;
+    width: 669px;
+  }
+  .b,
+  .b1,
+  .b2,
+  .b3 {
+    position: absolute;
+    top: 3827px;
+    left: 253px;
+    font-size: var(--font-size-11xl);
+    line-height: 30px;
+    color: var(--color-white);
+  }
+  .b1,
+  .b2,
+  .b3 {
+    top: 4310px;
+  }
+  .b2,
+  .b3 {
+    top: 3827px;
+    left: 1034px;
+  }
+  .b3 {
+    top: 4310px;
+  }
+  .home-page-child23 {
+    position: absolute;
+    top: 5274px;
+    left: 819px;
+    width: 282px;
+    height: 282px;
+  }
+  .home-page-child24 {
+    position: absolute;
+    top: 2991px;
+    left: 1325px;
+    width: 402px;
+    height: 402px;
+  }
+  .how-will-societal-container {
+    position: absolute;
+    top: 5005px;
+    left: calc(50% - 626px);
+    font-size: var(--font-size-27xl);
+    letter-spacing: 0.1em;
+    line-height: 80px;
+  }
+  .efficient-market-mechanism-int {
+    margin: 0;
+    font-size: var(--font-size-lg);
+    color: var(--color-dimgray);
+  }
+  .a {
+    text-transform: uppercase;
+  }
+  .drive-continuous-scrutiny-container {
+    position: absolute;
+    top: 5115px;
+    left: calc(50% - 765px);
+    letter-spacing: 0.1em;
+    line-height: 40px;
+    display: inline-block;
+    width: 685px;
+  }
+  .span2 {
+    line-height: 50px;
+    color: var(--color-gray);
+  }
+  .change-the-narrative-container,
+  .incentivize-effectiveness-container {
+    position: absolute;
+    top: 5349px;
+    left: calc(50% - 765px);
+    letter-spacing: 0.1em;
+  }
+  .change-the-narrative-container {
+    top: 5503px;
+    line-height: 40px;
+    display: inline-block;
+    width: 624px;
+  }
+  .attract-best-of-container,
+  .mitigate-problem-solvers-container,
+  .ready-efficient-container {
+    position: absolute;
+    top: 5115px;
+    left: calc(50% + 215px);
+    letter-spacing: 0.1em;
+    line-height: 40px;
+    text-align: right;
+    display: inline-block;
+    width: 549px;
+  }
+  .attract-best-of-container,
+  .mitigate-problem-solvers-container {
+    top: 5429px;
+  }
+  .attract-best-of-container {
+    top: 5623px;
+    left: calc(50% + 199px);
+    width: 565px;
+    height: 92px;
+  }
+  .home-page-child25 {
+    position: absolute;
+    top: 5895px;
+    left: 0;
+    width: 1920px;
+    height: 761px;
+  }
+  .home-page-child26 {
+    position: absolute;
+    top: 5995px;
+    left: 195px;
+    border-radius: 30px;
+    background-color: var(--color-white);
+    box-shadow: 10px 14px 44px rgba(0, 0, 0, 0.07);
+    width: 479px;
+    height: 561px;
+  }
+  .so-what {
+    position: absolute;
+    top: 5995px;
+    left: calc(50% - 227px);
+    font-size: var(--font-size-27xl);
+    letter-spacing: 0.1em;
+    line-height: 80px;
+  }
+  .an-increase-of,
+  .an-increase-of1 {
+    color: var(--color-gray);
+    display: inline-block;
+    width: 853px;
+  }
+  .an-increase-of {
+    position: absolute;
+    top: 6079px;
+    left: calc(50% - 227px);
+    line-height: 45px;
+  }
+  .an-increase-of1 {
+    top: 6249px;
+  }
+  .an-increase-of1,
+  .an-increase-of2,
+  .of-national-spend {
+    position: absolute;
+    left: calc(50% - 227px);
+    line-height: 40px;
+  }
+  .an-increase-of2 {
+    top: 6419px;
+    color: var(--color-gray);
+    display: inline-block;
+    width: 853px;
+  }
+  .of-national-spend {
+    top: 6176px;
+    font-size: var(--font-size-13xl);
+    color: var(--color-steelblue-200);
+  }
+  .span12 {
+    color: var(--color-dimgray);
+  }
+  .of-national-spend-container,
+  .x-of-total {
+    position: absolute;
+    top: 6346px;
+    left: calc(50% - 227px);
+    font-size: var(--font-size-13xl);
+    line-height: 40px;
+    color: var(--green);
+  }
+  .x-of-total {
+    top: 6516px;
+    color: var(--color-steelblue-100);
+  }
+  .ellipse-div,
+  .home-page-child27,
+  .home-page-child28 {
+    position: absolute;
+    top: 6538.44px;
+    left: 487.63px;
+    border-radius: 50%;
+    background-color: var(--color-steelblue-100);
+    width: 379px;
+    height: 379px;
+    transform: rotate(-146.39deg);
+    transform-origin: 0 0;
+  }
+  .home-page-child27,
+  .home-page-child28 {
+    background-color: var(--green);
+  }
+  .home-page-child28 {
+    background-color: var(--color-steelblue-200);
+  }
+  .div,
+  .div1,
+  .x {
+    position: absolute;
+    top: 6315.03px;
+    left: 345.57px;
+    font-size: var(--font-size-13xl);
+    line-height: 40px;
+    font-weight: 600;
+    font-family: var(--font-montserrat);
+    color: var(--color-white);
+  }
+  .div,
+  .div1 {
+    top: 6149.11px;
+    left: 378.52px;
+  }
+  .div1 {
+    top: 6263.22px;
+    left: 492.7px;
+  }
+  .home-page-child29,
+  .home-page-child30 {
+    position: absolute;
+    top: 6307px;
+    left: 1638px;
+    width: 174.77px;
+    height: 287px;
+    opacity: 0.1;
+  }
+  .home-page-child30 {
+    top: 5902px;
+    left: 20px;
+  }
+  .vector-icon19,
+  .vector-icon20 {
+    position: absolute;
+    height: 0.67%;
+    width: 2.4%;
+    top: 86.62%;
+    right: 46.14%;
+    bottom: 12.71%;
+    left: 51.46%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.1;
+  }
+  .vector-icon20 {
+    height: 1.22%;
+    width: 4.58%;
+    top: 86.3%;
+    right: 45.06%;
+    bottom: 12.48%;
+    left: 50.36%;
+  }
+  .home-page-child31 {
+    position: absolute;
+    top: 6836px;
+    left: 0;
+    background-color: var(--color-steelblue-200);
+    width: 1920px;
+    height: 60px;
+  }
+  .sangamx-inc {
+    position: absolute;
+    top: 6858px;
+    left: calc(50% - 765px);
+    font-size: var(--font-size-sm);
+    letter-spacing: 0.04em;
+    line-height: 16px;
+    color: var(--color-white);
+  }
+  .shri-mohandas-gandhi {
+    position: absolute;
+    top: 38.81%;
+    left: calc(50% - 150px);
+    font-size: var(--font-size-5xl);
+    line-height: 35px;
+    color: var(--green);
+  }
+  .but-the-idea1 {
+    position: absolute;
+    top: 36.59%;
+    left: calc(50% - 655px);
+    font-size: var(--font-size-13xl);
+    line-height: 45px;
+    display: inline-block;
+    text-align: center;
+    width: 1311px;
+  }
+  .wealth-is-not {
+    position: absolute;
+    top: 2625px;
+    left: calc(50% - 223px);
+    font-size: var(--font-size-6xl);
+    line-height: 35px;
+    color: var(--color-dimgray);
+  }
+  .home-page-child32,
+  .home-page-child33 {
+    position: absolute;
+    top: 2569px;
+    left: 195px;
+    border-radius: var(--br-xs);
+    background-color: var(--green);
+    width: 73px;
+    height: 73px;
+    opacity: 0.1;
+  }
+  .home-page-child33 {
+    left: 1652px;
+  }
+  .vector-icon21,
+  .vector-icon22 {
+    position: absolute;
+    height: 0.35%;
+    width: 2.03%;
+    top: 37.6%;
+    right: 86.93%;
+    bottom: 62.05%;
+    left: 11.04%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vector-icon22 {
+    right: 11.04%;
+    left: 86.93%;
+  }
+  .social-marketes {
+    left: 1099px;
+    color: var(--color-gray);
+  }
+  .contact-us,
+  .home,
+  .home-social,
+  .impact-tricker,
+  .social-marketes,
+  .who-are-we {
+    position: absolute;
+    top: 30px;
+    font-size: var(--font-size-base);
+    letter-spacing: 0.04em;
+    line-height: 16px;
+  }
+  .who-are-we {
+    left: 1290px;
+    color: var(--color-gray);
+  }
+  .contact-us,
+  .home,
+  .home-social,
+  .impact-tricker {
+    left: 990px;
+  }
+  .contact-us,
+  .home-social,
+  .impact-tricker {
+    left: 1454px;
+    color: var(--color-gray);
+  }
+  .contact-us,
+  .home-social {
+    left: 1632px;
+  }
+  .home-social {
+    top: 6858px;
+    left: 1216px;
+    font-size: var(--font-size-sm);
+    color: var(--color-white);
+  }
+  .home-page {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 6896px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-7xl);
+    color: var(--color-steelblue-300);
+    font-family: var(--font-century-gothic);
+  }
+  
